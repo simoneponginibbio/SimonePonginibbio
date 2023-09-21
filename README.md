@@ -1,4 +1,5 @@
-[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simoneponginibbio/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simoneponginibbio/)
+[![Gmail](https://img.shields.io/badge/gmail-eb4034.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:simoneponginibbio@gmail.com)
 <img align="right" src="https://komarev.com/ghpvc/?username=simoneponginibbio&color=green&label=PROFILE+VIEWS&style=for-the-badge">
 
 # About me
