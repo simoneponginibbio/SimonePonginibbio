@@ -3,7 +3,13 @@
 
 # About me
 
-
+<ul>
+  <li>My name is <b>Simone</b> and I'm from <b>Milan</b> 🇮🇹</li>
+  <li>I'm currently studying <b>Computer Science and Engineering</b> at <a href="https://www.polimi.it/"><b>Politecnico di Milano</b></a> 🎓</li>
+  <li>I enjoy practicing my <b>competitive programming</b> skills in sites like: <a href="https://leetcode.com/simoneponginibbio/"><b>Leetcode</b></a>, <a href="https://codeforces.com/profile/simoneponginibbio"><b>Codeforces</b></a> and <a href="https://www.codechef.com/users/pongi00"><b>Codechef</b></a> 💻</li>
+  <li>I'm a <b>tennis</b> player 🎾 and a big <b>football</b> lover ⚽</li>
+  <li>I'm also interested in <b>personal finance</b> 💲</li>
+</ul>
 
 ## Programming Languages
 
