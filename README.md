@@ -40,7 +40,6 @@
 ## IDEs
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Vivado](https://img.shields.io/badge/vivado-7f9639?style=for-the-badge&logo=xilinx&logoColor=white)
 
 ## Editors
