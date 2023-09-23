@@ -1,5 +1,5 @@
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simoneponginibbio/)
-[![Gmail](https://img.shields.io/badge/gmail-eb4034.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:simoneponginibbio@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simoneponginibbio/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:simoneponginibbio@gmail.com)
 <img align="right" src="https://komarev.com/ghpvc/?username=simoneponginibbio&color=green&label=PROFILE+VIEWS&style=for-the-badge">
 
 # About me
@@ -46,6 +46,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141.svg?&style=for-the-badge&logo=Overleaf&logoColor=white)
 
 ## Documents
 
