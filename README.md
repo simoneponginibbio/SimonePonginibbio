@@ -6,7 +6,7 @@
 
 <ul>
   <li>My name is <b>Simone</b> and I'm from <b>Milan</b> 🇮🇹</li>
-  <li>I'm working as a <b>software engineer</b> on finance and banking solutions at <a href="https://www.reply.com/iriscube-reply/it/"><b>Iriscube Reply</b></a> 💼</li>
+  <li>I'm working as a <b>software engineer</b> on finance and banking solutions at <a href="https://pwc.com/it/it/"><b>PwC Italy</b></a> 💼</li>
   <li>I'm currently studying <b>Computer Science and Engineering</b> at <a href="https://www.polimi.it/"><b>Politecnico di Milano</b></a> 🎓</li>
   <li>I enjoy practicing my <b>competitive programming</b> skills on platforms like: <a href="https://leetcode.com/simoneponginibbio/"><b>Leetcode</b></a>, <a href="https://codeforces.com/profile/simoneponginibbio"><b>Codeforces</b></a> and <a href="https://www.codechef.com/users/pongi00"><b>Codechef</b></a> 💻</li>
   <li>I'm a <b>tennis</b> player 🎾 and a big <b>football</b> lover ⚽</li>
