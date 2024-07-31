@@ -18,16 +18,16 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-lightgrey?style=for-the-badge&logo=xilinx&logoColor=red)
 
-## Web - Programming Language
+## Markup Languages
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 
-## Web - Frameworks
+## Frameworks / Libraries
 
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
@@ -40,16 +40,25 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-## IDEs
+## Deployment Systems
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?&style=for-the-badge&logo=azurepipelines&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white)
+
+## Versioning Control Systems
+
+![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+## IDEs / Code Editors
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Vivado](https://img.shields.io/badge/vivado-7f9639?style=for-the-badge&logo=xilinx&logoColor=white)
-
-## Editors
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141.svg?&style=for-the-badge&logo=Overleaf&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
+![Vivado](https://img.shields.io/badge/vivado-7f9639?style=for-the-badge&logo=xilinx&logoColor=white)
 
 ## Documents
 
